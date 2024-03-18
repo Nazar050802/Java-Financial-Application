@@ -1,4 +1,4 @@
-package org.mozharov;
+package cz.cuni.mff.mozharon;
 
 public class Main {
 
